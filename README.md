@@ -6,7 +6,12 @@ It is an Online Job Portal Application where Job provider can post a job and Job
 1. Install PHP
 2. Install MYSQL (OR You can install just XAMPP, here you will get both PHP and MYSQL combined)
 3. Install any Web Browser
-  
+
+## To add the Project to your local system
+  > git clone https://github.com/rajanyadav857/onlinejobs.git
+  > cd onlinejobs
+
+ 
 ## Before running the project : 
 1. Import DATABASE which is availabe in 'init_database' folder
 2. Go to 'dbconnection' folder and update username and password in 'dbconnect.php' file according to your current db username and password
