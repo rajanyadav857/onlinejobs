@@ -8,7 +8,9 @@ It is an Online Job Portal Application where Job provider can post a job and Job
 3. Install any Web Browser
 
 ## To add the Project to your local system
+1.
   > git clone https://github.com/rajanyadav857/onlinejobs.git
+2.
   > cd onlinejobs
 
  
