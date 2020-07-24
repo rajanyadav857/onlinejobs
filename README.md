@@ -8,12 +8,8 @@ It is an Online Job Portal Application where Job provider can post a job and Job
 3. Install any Web Browser
 
 ## To add the Project to your local system
-1.
   > git clone https://github.com/rajanyadav857/onlinejobs.git
-2.
-  > cd onlinejobs
 
- 
 ## Before running the project : 
 1. Import DATABASE which is availabe in 'init_database' folder
 2. Go to 'dbconnection' folder and update username and password in 'dbconnect.php' file according to your current db username and password
